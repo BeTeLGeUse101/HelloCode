@@ -1,0 +1,15 @@
+C:\Users\super\OneDrive\Рабочий стол\Учёба\Знакомство с языками программирования\Задания\programm\programm003_Sum\bin\Debug\net6.0\programm003_Sum.exe
+C:\Users\super\OneDrive\Рабочий стол\Учёба\Знакомство с языками программирования\Задания\programm\programm003_Sum\bin\Debug\net6.0\programm003_Sum.deps.json
+C:\Users\super\OneDrive\Рабочий стол\Учёба\Знакомство с языками программирования\Задания\programm\programm003_Sum\bin\Debug\net6.0\programm003_Sum.runtimeconfig.json
+C:\Users\super\OneDrive\Рабочий стол\Учёба\Знакомство с языками программирования\Задания\programm\programm003_Sum\bin\Debug\net6.0\programm003_Sum.dll
+C:\Users\super\OneDrive\Рабочий стол\Учёба\Знакомство с языками программирования\Задания\programm\programm003_Sum\bin\Debug\net6.0\programm003_Sum.pdb
+C:\Users\super\OneDrive\Рабочий стол\Учёба\Знакомство с языками программирования\Задания\programm\programm003_Sum\obj\Debug\net6.0\programm003_Sum.csproj.AssemblyReference.cache
+C:\Users\super\OneDrive\Рабочий стол\Учёба\Знакомство с языками программирования\Задания\programm\programm003_Sum\obj\Debug\net6.0\programm003_Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\super\OneDrive\Рабочий стол\Учёба\Знакомство с языками программирования\Задания\programm\programm003_Sum\obj\Debug\net6.0\programm003_Sum.AssemblyInfoInputs.cache
+C:\Users\super\OneDrive\Рабочий стол\Учёба\Знакомство с языками программирования\Задания\programm\programm003_Sum\obj\Debug\net6.0\programm003_Sum.AssemblyInfo.cs
+C:\Users\super\OneDrive\Рабочий стол\Учёба\Знакомство с языками программирования\Задания\programm\programm003_Sum\obj\Debug\net6.0\programm003_Sum.csproj.CoreCompileInputs.cache
+C:\Users\super\OneDrive\Рабочий стол\Учёба\Знакомство с языками программирования\Задания\programm\programm003_Sum\obj\Debug\net6.0\programm003_Sum.dll
+C:\Users\super\OneDrive\Рабочий стол\Учёба\Знакомство с языками программирования\Задания\programm\programm003_Sum\obj\Debug\net6.0\refint\programm003_Sum.dll
+C:\Users\super\OneDrive\Рабочий стол\Учёба\Знакомство с языками программирования\Задания\programm\programm003_Sum\obj\Debug\net6.0\programm003_Sum.pdb
+C:\Users\super\OneDrive\Рабочий стол\Учёба\Знакомство с языками программирования\Задания\programm\programm003_Sum\obj\Debug\net6.0\programm003_Sum.genruntimeconfig.cache
+C:\Users\super\OneDrive\Рабочий стол\Учёба\Знакомство с языками программирования\Задания\programm\programm003_Sum\obj\Debug\net6.0\ref\programm003_Sum.dll
